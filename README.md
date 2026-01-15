@@ -2,6 +2,8 @@ Hey there! I’m Rudra Patel, a Computer Science and Data Science student at Rut
 
 I enjoy working on projects that combine data-driven insights with scalable engineering, whether it’s through designing clean front-end experiences or developing models that uncover meaningful trends from complex datasets.
 
+https://www.patelrudra.site/
+
 🔍 Current Focus
 - Exploring LLM fine-tuning, RAG pipelines, and multimodal AI applications.
 
