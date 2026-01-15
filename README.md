@@ -25,7 +25,7 @@ You can find highlights of my technical work in my pinned repositories!
 🏀 Outside of Tech
 When I’m not writing code, you’ll probably find me:
 
--Watching or playing NBA, basketball, or volleyball
+-Watching or playing basketball, or volleyball
 
 -Catching up on anime (especially Demon Slayer, One Piece, and Black Clover)
 
